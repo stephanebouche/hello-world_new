@@ -9,7 +9,7 @@ function sayHello(name: String) {
         }
     }
     if( a < 4){
-        console.log(`Hella ${name}`);
+        console.log(`Hell2 ${name}`);
         if(a == 4){
             console.log(`Heloo ${name}`)}
     }
